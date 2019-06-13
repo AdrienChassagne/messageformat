@@ -20,7 +20,7 @@
   "homepage": "https://messageformat.github.io/messageformat/",
   "repository": "messageformat/messageformat",
   "main": "index.js",
-  "browser": "./messageformat.js",
+  "browser": "./index.js",
   "files": [
     "index.d.ts",
     "lib",
